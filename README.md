@@ -1,7 +1,10 @@
 # haTUI - Home Assistant Text User Interface
 
 A terminal user interface (TUI) for Home Assistant that displays a grid of sensor data and switch/light entities.
- ~ ~ le first and shittest releaseo ~ ~ 
+
+![screenshot](/screenshot.png)
+
+~ ~ ~ ~ le first and shittest releaseo ~ ~ ~ ~
 
 TODO: multiple dashboards, graphs, meters, other fancy shit, automations, plugins, email client, kitchen sink. Don't hold your breath. I'm most likely to do the thing that looks the coolest first.
 
