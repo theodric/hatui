@@ -1,6 +1,6 @@
 # haTUI - Home Assistant Terminal User Interface
 
-A terminal user interface (TUI) for Home Assistant that displays a grid of sensor data and switch/light entities.
+A terminal user interface (TUI) for Home Assistant that displays a grid of sensor data and switch/light entities.  
 
 ![screenshot](/screenshot.png)
 
