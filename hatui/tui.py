@@ -177,7 +177,7 @@ class TUI:
                     else:
                         menu_items.append(urwid.AttrMap(item_widget, 'menu'))
             
-            hints = urwid.AttrMap(urwid.Text("│ ↑↓: Navigate | Enter: Select | S/O: Switch Menu | ESC: Cancel" + " " * 8), 'menu')
+            hints = urwid.AttrMap(urwid.Text("│ ↑↓: Navigate | Enter: Select | E/C: Switch Menu | ESC: Cancel" + " " * 8), 'menu')
             menu_items.append(urwid.AttrMap(urwid.Text("└" + "─" * 35), 'menu'))
             menu_items.append(hints)
             
