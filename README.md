@@ -1,4 +1,4 @@
-# hatui
+# haTUI
 haTUI - Home Assistant Text User Interface
 
 le first releaseo
