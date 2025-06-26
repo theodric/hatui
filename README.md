@@ -88,5 +88,4 @@ units:
 
 Nota bene: haTUI hammers updates into this file in realtime whenever you make a change to the entities within the UI. If you're planning to edit the config directly, exit haTUI first so you don't end up fighting the program.
 
-
 haTUI...I'm sure there's a hawk tuah joke in here somewhere.
