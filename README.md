@@ -12,6 +12,7 @@ Written in Python with Urwid.
 
 ## Features
 
+- **Runs in a damn terminal over SSH**: as God intended, no ~corporate spyware platform~ web browser required
 - **Grid Display**: It's a display with more gridness than a non-grid display could ever match
 - **Sensor Management**: Add, delete, and reorder sensors inside the TUI if you don't like editing config files
 - **Custom Names and Units**: Set friendly display names for entities so you're not stuck looking at unnamed_getcelldata_average_cell_voltage
