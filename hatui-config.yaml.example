@@ -1,0 +1,27 @@
+display_names:
+  light.on_off_plug_2: The Scribe
+  sensor.getcelldata_current_charge: Charge
+  sensor.getcelldata_current_discharge: Discharge
+  sensor.inverter_power: Inverter Consumption
+  sensor.nasty_power_energy_power: NASty Power
+  sensor.unnamed_getcelldata_average_cell_voltage: Cell Avg V
+  sensor.unnamed_getcelldata_delta_cell_voltage: Balance
+  switch.genelecs: Genelecs
+entities:
+- sensor.nasty_power_energy_power
+- sensor.dehumidifier_energy_power
+- sensor.inverter_power
+- sensor.getcelldata_current_discharge
+- sensor.unnamed_getcelldata_delta_cell_voltage
+- sensor.unnamed_getcelldata_average_cell_voltage
+- switch.genelecs
+- light.on_off_plug_2
+ha_token: YOUR-TOKEN-HERE
+ha_url: http://YOUR-INSTANCE-IP-HERE:8123
+units:
+  sensor.dehumidifier_energy_power: W
+  sensor.getcelldata_current_charge: A
+  sensor.getcelldata_current_discharge: A
+  sensor.inverter_power: W
+  sensor.nasty_power_energy_power: W
+  sensor.unnamed_getcelldata_delta_cell_voltage: V
