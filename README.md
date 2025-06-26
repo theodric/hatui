@@ -69,7 +69,7 @@ The program looks for a `hatui-config.yaml` file in the following locations:
 
 If none of these exist, it will create and maintain a file at `$HOME/.config/hatui-config.yaml`.
 
-Example config:
+Example config (but you can also look at the actual config example file provided in the repo):
 
 ```yaml
 ha_url: http://your-home-assistant:8123
