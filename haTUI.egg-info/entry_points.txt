@@ -1,0 +1,2 @@
+[console_scripts]
+hatui = hatui.main:main
